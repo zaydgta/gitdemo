@@ -10,4 +10,5 @@ Modules:
 Technology: Java
 Version Control: Git and GitHub
 
-Project Status: Testing In Progress
+<<<<<<< HEAD
+Project Status: Testing In Progress - Development Completed
